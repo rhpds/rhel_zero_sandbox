@@ -11,4 +11,4 @@ antora:
 tabs:
   - name: terminal
     port: 443
-    path: /wetty
+    path: /tty1
