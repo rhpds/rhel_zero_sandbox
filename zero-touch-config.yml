@@ -5,9 +5,9 @@ antora:
   dir: www
   modules:
     - name: index
-      label: Module 1
+      label: Red Hat Enterprise Linux Open Lab
     - name: module-02
-      label: Module 2
+      label: No really, there are no instructions
 tabs:
   - name: terminal
     port: 443
