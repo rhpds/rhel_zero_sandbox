@@ -4,17 +4,17 @@ The system displayed beside this text is a Red Hat Enterprise Linux 9
 system registered with Subscription Manager. An unprivileged user also
 exists on the system.
 
-You also have access to the Red Hat Enterprise Linux Web Console.
+You also have access to the *Red Hat Enterprise Linux Web Console*.
 
 [cols="1,1,1"]
 |===
-|Username
-|Password
-|Red Hat Enterprise Linux Web Console
+|*Username*
+|*Password*
+|*Red Hat Enterprise Linux Web Console*
 
 |{cockpit_user_name}
 |{cockpit_user_password}
-|{cockpit_url}[Red Hat Enterprise Linux Web Console^]
+|{cockpit_url}[RHEL Web Console^]
 
 |===
 
