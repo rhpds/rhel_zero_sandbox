@@ -6,10 +6,10 @@ exists on the system.
 
 You also have access to the Red Hat Enterprise Linux Web Console.
 
-[cols="3,1"]
+[cols="1,1,1"]
 |===
-|Username 
-|Password 
+|Username
+|Password
 |Red Hat Enterprise Linux Web Console
 
 |{cockpit_user_name}
