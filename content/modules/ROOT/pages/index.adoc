@@ -4,7 +4,9 @@ The system displayed beside this text is a Red Hat Enterprise Linux 9
 system registered with Subscription Manager. An unprivileged user also
 exists on the system.
 
-Username: *rhel* Password: *redhat*
+Username: {cockpit_user_name} Password: {cockpit_user_password}
+
+You also have access to the {cockpit_url}[Red Hat Enterprise Linux Web Console Cockpit^]
 
 Enjoy your unstructured lab time, the system will disconnect after about
 60 minutes.
