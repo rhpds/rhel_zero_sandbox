@@ -14,7 +14,7 @@ You also have access to the Red Hat Enterprise Linux Web Console.
 
 |{cockpit_user_name}
 |{cockpit_user_password}
-|{cockpit_url}
+|{cockpit_url}[Red Hat Enterprise Linux Web Console^]
 
 |===
 
